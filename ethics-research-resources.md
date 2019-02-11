@@ -4,7 +4,7 @@ A collection of relevant resources discussed in the #ethics-research D4D Slack c
 
 ## Fairness and Bias
 
-[Fair prediction with disparate impact: A study of bias in recidivism prediction instruments]((https://arxiv.org/pdf/1703.00056.pdf) ) by Alexandra Chouldechova 
+[Fair prediction with disparate impact: A study of bias in recidivism prediction instruments](https://arxiv.org/abs/1610.07524) by Alexandra Chouldechova 
 
 [*"Fairness Through Awareness"*](https://arxiv.org/pdf/1104.3913.pdf) by Cynthia Dwork, Moritz Hardt, Toniann Pitassi, Omer Reingold, Richard Zemel
 
@@ -24,11 +24,11 @@ A collection of relevant resources discussed in the #ethics-research D4D Slack c
 
 [Google's developer training program on algorithmic fairness](https://developers.google.com/machine-learning/fairness-overview/).
 
-IBM has a fairness toolkit called AI Fairness 360 that utilizes statistical measures and others tools and techniques. More details available in the paper [here](https://arxiv.org/pdf/1810.01943.pdf). The API is available [here](https://aif360.readthedocs.io/en/latest/). 
+[AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias](https://arxiv.org/pdf/1810.01943.pdf). The AI Fairness 360 API is available [here](https://aif360.mybluemix.net/) and the documentation is available [here](https://aif360.readthedocs.io/en/latest/). 
 
 [The Seductive Diversion of ‘Solving’ Bias in Artificial Intelligence](https://medium.com/s/story/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53) 
 
-An interesting Wired article by Joi Ito on definitions and measures of algorithmic fairness in relation to social/moral contexts, available [here.](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/amp) 
+[Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/amp) 
 
 ## Opennness 
 
@@ -87,28 +87,29 @@ Insights from the Social Sciences](https://arxiv.org/pdf/1706.07269.pdf)
 
 [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704) by Francois Chollet.
 
-[Interaction is the key to machine learning applications](http://web.media.mit.edu/~lieber/Lieberary/AI/Interaction-Is/Interaction-Is.html) by Henry Lieberman
+[Interaction is the key to machine learning applications](https://web.media.mit.edu/~lieber/Lieberary/AI/Interaction-Is/Interaction-Is.html) by Henry Lieberman
 
 [IEEE 2018 workshop on **Machine Learning from User Interaction for Visualization and Analytics](https://learningfromusersworkshop.github.io).
 
-[Artificial Intelligence and Ethics](http://harvardmagazine.com/2019/01/artificial-intelligence-limitations).  
+[Artificial Intelligence and Ethics](https://harvardmagazine.com/2019/01/artificial-intelligence-limitations).  
 
 [Responsible AI Practices](https://ai.google/education/responsible-ai-practices) by Google AI
 
-[Advancing Both A.I. and Privacy Is Not a Zero-Sum Game](http://fortune.com/2018/12/27/ai-privacy-innovation-machine-learning/)
+[Advancing Both A.I. and Privacy Is Not a Zero-Sum Game](https://fortune.com/2018/12/27/ai-privacy-innovation-machine-learning/)
 
 ## Other resources
 
 ### Adversarial Attacks
 
-- “Adversarial Examples: Attacks and Defenses for Deep Learning”: https://arxiv.org/pdf/1712.07107.pdf
+- [“Adversarial Examples: Attacks and Defenses for Deep Learning”](https://arxiv.org/pdf/1712.07107.pdf)
 
-- OpenAI’s blog post: https://blog.openai.com/adversarial-example-research/
+- [OpenAI’s blog post on Adversarial Examples](https://blog.openai.com/adversarial-example-research/)
 
-- Berkeley’s blog post: https://ml.berkeley.edu/blog/2018/01/10/adversarial-examples/ 
+- [Berkeley’s blog post](https://ml.berkeley.edu/blog/2018/01/10/adversarial-examples/)
 
 ### Bayesian Networks
 
-- “Uncertainty and Bayesian Networks”: http://www1.se.cuhk.edu.hk/~hcheng/seg4560/tuto/tutorial03.pdf
-- “A Tutorial on Learning With Bayesian Networks”: http://www.cis.upenn.edu/~mkearns/papers/barbados/heckerman.pdf
+- [“Bayesian networks for decision making under uncertainty: How to combine data, evidence, opinion and
+guesstimates to make decisions”](https://rcc.uq.edu.au/filething/get/4349/Bayesian-networks-UQ_Seminar_Nov2016.pdf)
+- [“A Tutorial on Learning With Bayesian Networks”](https://www.cis.upenn.edu/~mkearns/papers/barbados/heckerman.pdf)
 - [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
