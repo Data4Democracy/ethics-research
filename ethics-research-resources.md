@@ -112,5 +112,8 @@ Insights from the Social Sciences](https://arxiv.org/pdf/1706.07269.pdf)
 - [“Bayesian networks for decision making under uncertainty: How to combine data, evidence, opinion and
 guesstimates to make decisions”](https://rcc.uq.edu.au/filething/get/4349/Bayesian-networks-UQ_Seminar_Nov2016.pdf)
 - [“A Tutorial on Learning With Bayesian Networks”](https://www.cis.upenn.edu/~mkearns/papers/barbados/heckerman.pdf)
-- [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
-- [Google AI](https://www.blog.google/technology/ai/ai-principles/)
+- [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)  
+
+### AI and Ethics  
+- [Google AI](https://www.blog.google/technology/ai/ai-principles/)  
+-[Public Health Ethics: From Foundations and Frameworks to Justice and Global Public Health ](https://journals.sagepub.com/doi/abs/10.1111/j.1748-720X.2004.tb00470.x)
